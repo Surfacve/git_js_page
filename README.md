@@ -1,1 +1,1 @@
-Thi
+This reposiotry tracks my projects publicly using github pages. @2026 JS
